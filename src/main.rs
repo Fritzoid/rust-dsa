@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");sdoijhf
+    println!("Hello, world!");
 }
